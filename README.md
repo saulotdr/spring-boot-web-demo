@@ -4,7 +4,7 @@
 
 ## Getting started 
 
-This project show a simple static web page demo using thymeleaf features
+This project shows a simple static web page demo using thymeleaf features
 
 
 
